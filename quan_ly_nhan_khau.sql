@@ -15,7 +15,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 -- Schema quan_ly_nhan_khau
 -- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS `quan_ly_nhan_khau` DEFAULT CHARACTER SET latin1 ;
-USE `quan_ly_nhan_khau_final_project` ;
+USE `quan_ly_nhan_khau` ;
 
 
 -- -----------------------------------------------------
