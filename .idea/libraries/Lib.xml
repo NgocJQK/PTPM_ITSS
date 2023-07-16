@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanKhau/dist/lib/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanKhau/dist/lib/poi-bin-4.1.1-20191023.zip!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanKhau/dist/lib/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanKhau/dist/lib/jcalendar-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanKhau/dist/lib/mysql-connector-java-5.1.40.zip!/" />
+      <root url="jar://$PROJECT_DIR$/QuanLyNhanKhau/dist/lib/jcalendar-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
